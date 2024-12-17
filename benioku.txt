@@ -1,0 +1,9 @@
+Otomatik işlemlerde satır sayısı son ekrana yazdırlan duruma göre çalışır.
+Eğer otomatik işlemlerde yazan durumun satır sayısı ekrana son yazdırılan durumda yoksa o işlem yapılmadan aatlanır ve diğer işleme geçilir.
+Bu durum sadece program ilk çalıştığında geçerli değildir.
+İlk olarak otomatik işlemler seçiilirse o zaman DNA.txt baz alınarak işlem yapılır.
+
+Çok uzun dosyalarda işlem yapılırsa bunu ekrana yazdırmak uzun bir vakit alacağı için 
+bu yazdırma işlemini kullanıcının tercihine bıraktım.
+Çaprazlama, mutasyon ve otomatik işlemlerden sonra kullanıcıya menüye dönme ve popülasyonun son durumunu ekrana yazdırmak için
+seçenek sundum. Buradan işlemlerin doğruluğu kontrol edilebilir.
